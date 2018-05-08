@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Wobblier</title>
+    <description>Follow &lt;a href=&quot;https://micro.blog/Wobblier&quot;&gt;@Wobblier on Micro.blog&lt;/a&gt;.</description>
+    <link>https://Wobblier.micro.blog/</link>
+    <pubDate>Mon, 07 May 2018 22:09:01 -0400</pubDate>
+    <lastBuildDate>Mon, 07 May 2018 22:09:01 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Trying to setup mirror with Github. See if this works.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 May 2018 22:09:00 -0400</pubDate>
+        <link>https://Wobblier.micro.blog/2018/05/07/trying-to-setup.html</link>
+        <guid isPermaLink="true">http://Wobblier.micro.blog/2018/05/08/trying-to-setup.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Hello. First post.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 May 2018 21:00:41 -0400</pubDate>
+        <link>https://Wobblier.micro.blog/2018/05/07/hello-first-post.html</link>
+        <guid isPermaLink="true">http://Wobblier.micro.blog/2018/05/08/hello-first-post.html</guid>
+      </item>
+    
+  </channel>
+</rss>
