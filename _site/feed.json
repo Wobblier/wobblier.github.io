@@ -1,0 +1,25 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Wobblier",
+	"home_page_url": "https://Wobblier.micro.blog/",
+	"feed_url": "https://Wobblier.micro.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "http://Wobblier.micro.blog/2018/05/08/trying-to-setup.html",
+	      	
+			"content_html": "<p>Trying to setup mirror with Github. See if this works.</p>\n",
+			"date_published": "2018-05-07T22:09:00-04:00",
+			"url": "https://Wobblier.micro.blog/2018/05/07/trying-to-setup.html"
+		},
+		
+		{
+			"id": "http://Wobblier.micro.blog/2018/05/08/hello-first-post.html",
+	      	
+			"content_html": "<p>Hello. First post.</p>\n",
+			"date_published": "2018-05-07T21:00:41-04:00",
+			"url": "https://Wobblier.micro.blog/2018/05/07/hello-first-post.html"
+		}
+		
+	]
+}
